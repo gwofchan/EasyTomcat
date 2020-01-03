@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/httpserver/controller/LoginServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/httpserver/server/Dispatcher.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/httpserver/server/Request.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/httpserver/server/Response.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/httpserver/server/Server.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/httpserver/server/Servlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/httpserver/server/ServletContext.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/httpserver/server/ServletXml.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/httpserver/server/WebApp.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/httpserver/server/WebHandler.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
