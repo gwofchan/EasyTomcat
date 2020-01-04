@@ -11,6 +11,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.StringTokenizer;
 
+@SuppressWarnings({"ALL", "AlibabaUndefineMagicConstant"})
 public class Request {
 
 	// 常量（回车+换行）
@@ -38,7 +39,8 @@ public class Request {
 		this.in = in;
 		try {
 			byte[] data = new byte[10240];
-			int len = in.read(data);//InputStream获取字节长度
+			//InputStream获取字节长度
+			int len = in.read(data);
 			requestInfo = new String(data, 0, len);
 		} catch (IOException e) {
 			return;
@@ -50,6 +52,7 @@ public class Request {
 	/**
 	 * 分析头信息
 	 */
+	@SuppressWarnings("AlibabaUndefineMagicConstant")
 	private void analyzeHeaderInfo() {
 		if (this.requestInfo == null || "".equals(this.requestInfo.trim())) {
 			return;
@@ -65,6 +68,7 @@ public class Request {
 		String urlStr = firstLine.substring(index,firstLine.indexOf("HTTP/1.1")).trim();
 		String parameters = "";
 		if (GET.equalsIgnoreCase(this.method)) {
+			//noinspection AlibabaUndefineMagicConstant
 			if (urlStr.contains("?")) {
 				String[] arr = urlStr.split("\\?");
 				this.url = arr[0];

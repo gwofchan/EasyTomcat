@@ -15,7 +15,8 @@ public class LoginServlet extends Servlet {
         .println("        <title>测试</title>")
         .println("    </head>     ")
         .println("    <body>      ")
-        .println("        <h3>Hello get " + request.getParameter("username") + "</h3>")// 获取登陆名
+				// 获取登陆名
+        .println("        <h3>Hello get " + request.getParameter("username") + "</h3>")
 		.println("    </body>     ")
 		.println("</html>");
 	}
@@ -29,7 +30,8 @@ public class LoginServlet extends Servlet {
 				.println("        <title>测试</title>")
 				.println("    </head>     ")
 				.println("    <body>      ")
-				.println("        <h3>Hello post " + request.getParameter("username") + "</h3>")// 获取登陆名
+				// 获取登陆名
+				.println("        <h3>Hello post " + request.getParameter("username") + "</h3>")
 				.println("    </body>     ")
 				.println("</html>");
 	}

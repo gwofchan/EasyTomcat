@@ -3,6 +3,7 @@ package httpserver.server;
 import java.io.IOException;
 import java.net.ServerSocket;
 
+@SuppressWarnings({"ALL", "AlibabaAvoidManuallyCreateThread"})
 public class Server {
 
 	private ServerSocket server;
@@ -30,6 +31,7 @@ public class Server {
 	/**
 	 * 接收数据
 	 */
+	@SuppressWarnings("AlibabaAvoidManuallyCreateThread")
 	private void receiveData() {
 		try {
 			while(!isShutdown) {
