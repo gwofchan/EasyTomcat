@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2074b3e3-5dd2-47e4-9207-dce0e5dcc774" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/httpserver/controller/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/httpserver/controller/LoginServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/httpserver/server/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/httpserver/server/Request.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/httpserver/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/httpserver/server/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/httpserver/server/Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/httpserver/server/Servlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +17,27 @@
   <component name="FavoritesManager">
     <favorites_list name="httpServer" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="gwofchan" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="EasyTomcat" />
+  </component>
   <component name="ProjectId" id="1VsHcCcfJWdI9LmxdbDeGhDyII7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -95,7 +106,7 @@
       <workItem from="1578115987566" duration="36000" />
       <workItem from="1578116261431" duration="260000" />
       <workItem from="1578116676413" duration="308000" />
-      <workItem from="1578117126771" duration="1092000" />
+      <workItem from="1578117126771" duration="6802000" />
     </task>
     <servers />
   </component>
@@ -124,18 +135,58 @@
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="320" y="89" key="#Updates/0.23.1440.801@0.23.1440.801" timestamp="1578116010155" />
+    <state x="533" y="140" key="#com.intellij.ide.util.MemberChooser" timestamp="1578123637437">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="533" y="140" key="#com.intellij.ide.util.MemberChooser/0.23.1440.801@0.23.1440.801" timestamp="1578123637437" />
     <state x="408" y="158" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578115966800">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="408" y="158" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.801@0.23.1440.801" timestamp="1578115966800" />
-    <state x="480" y="297" key="Github.CreatePullRequestDialog" timestamp="1578120159051">
+    <state x="480" y="297" key="Github.CreatePullRequestDialog" timestamp="1578127685526">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state x="480" y="297" key="Github.CreatePullRequestDialog/0.23.1440.801@0.23.1440.801" timestamp="1578120159051" />
+    <state x="480" y="297" key="Github.CreatePullRequestDialog/0.23.1440.801@0.23.1440.801" timestamp="1578127685526" />
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom" timestamp="1578124948811">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1578124948811" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center" timestamp="1578124948809">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1578124948809" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left" timestamp="1578124948808">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1578124948808" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right" timestamp="1578124948809">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1578124948809" />
+    <state width="1398" height="255" key="GridCell.Tab.1.bottom" timestamp="1578124913443">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="255" key="GridCell.Tab.1.bottom/0.23.1440.801@0.23.1440.801" timestamp="1578124913443" />
+    <state width="1398" height="255" key="GridCell.Tab.1.center" timestamp="1578124913442">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="255" key="GridCell.Tab.1.center/0.23.1440.801@0.23.1440.801" timestamp="1578124913442" />
+    <state width="1398" height="255" key="GridCell.Tab.1.left" timestamp="1578124913441">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="255" key="GridCell.Tab.1.left/0.23.1440.801@0.23.1440.801" timestamp="1578124913441" />
+    <state width="1398" height="255" key="GridCell.Tab.1.right" timestamp="1578124913442">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="255" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1578124913442" />
     <state x="222" y="65" key="SettingsEditor" timestamp="1578119963735">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="222" y="65" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1578119963735" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1578127081921">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1440.801@0.23.1440.801" timestamp="1578127081921" />
     <state x="320" y="163" key="Vcs.Push.Dialog.v2" timestamp="1578120332199">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
@@ -144,9 +195,9 @@
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="397" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.801@0.23.1440.801" timestamp="1578117129046" />
-    <state x="503" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578120242096">
+    <state x="503" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578127551462">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state x="503" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.801@0.23.1440.801" timestamp="1578120242096" />
+    <state x="503" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.801@0.23.1440.801" timestamp="1578127551462" />
   </component>
 </project>
