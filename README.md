@@ -1,5 +1,8 @@
 # JavaSE 手写 多线程web 容器
-
+-------------------
+3.12号更新 较大改动
+将原来的bio更新成nio模式
+-------------------
 ## 源码出处及见解:
 
 https://www.cnblogs.com/moonlightL/p/7727373.html

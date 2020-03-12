@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2074b3e3-5dd2-47e4-9207-dce0e5dcc774" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpServer.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/httpServer/httpserver/server/cloneThreadPoolManager.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/httpServer/httpserver/server/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/httpserver/controller/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/httpserver/controller/LoginServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/httpserver/server/Dispatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/httpserver/server/Dispatcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/httpserver/server/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/httpserver/server/Request.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/httpserver/server/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/httpserver/server/Response.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/httpserver/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/httpserver/server/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/httpserver/server/Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/httpserver/server/Servlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/httpserver/server/ServletContext.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/httpserver/server/ServletMappingXml.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/httpserver/server/ServletMappingConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/httpserver/server/ServletXml.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/httpserver/server/ServletMapping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/httpserver/server/WebApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/httpserver/server/WebHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/httpserver/server/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -281,7 +262,7 @@
       <workItem from="1583921046344" duration="634000" />
       <workItem from="1583923518915" duration="1576000" />
       <workItem from="1583933120174" duration="2094000" />
-      <workItem from="1583935379863" duration="12271000" />
+      <workItem from="1583935379863" duration="12411000" />
     </task>
     <servers />
   </component>
