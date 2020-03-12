@@ -1,20 +1,25 @@
 package httpserver.server;
 
+import java.io.IOException;
+
+/**
+ * @author gwofchan
+ */
 public class Servlet {
-	public void service(Request request, Response response ) {
-		if ("get".equalsIgnoreCase(request.getMethod())) {
+	public void service(Request request, Response response ) throws IOException {
+		if (request.getMethod().equalsIgnoreCase("GET")){
 			doGet(request,response);
 		}
-		if ("post".equalsIgnoreCase(request.getMethod())) {
+		else if(request.getMethod().equalsIgnoreCase("POST")) {
 			doPost(request,response);
 		}
 	}
 
-	protected void doGet(Request request, Response response) {
+	protected void doGet(Request request, Response response) throws IOException {
 		
 	}
 	
-	protected void doPost(Request request, Response response) {
+	protected void doPost(Request request, Response response) throws IOException {
 		
 	}
 }
